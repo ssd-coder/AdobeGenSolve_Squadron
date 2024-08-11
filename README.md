@@ -6,8 +6,6 @@
 
    ```bash
    git clone https://github.com/sanketdisale871/AdobeGenSolve.git
-   cd shape-detection
-
    ```
 
 2. # Curvetopia: A Journey into the World of Curves
